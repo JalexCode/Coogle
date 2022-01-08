@@ -1,0 +1,29 @@
+﻿// -------------------------------------
+// FORMAT
+// City name, latitude, longitude
+// -------------------------------------
+Minas de Matahambre,       22.58, -83.94
+Habana del Este,           23.10, -82.13
+Habana Vieja,              23.12, -82.36
+Ciénaga de Zapata,         22.33, -81.53
+Villa Clara,               22.53, -79.98
+La Sierpe,                 21.66, -79.26
+Carlos Manuel de Céspedes, 21.57, -78.28
+Jimagüayú,                 21.24, -77.82
+Najasa,                    21.07, -77.74
+Sierra de Cubitas,         21.71, -77.79
+Amancio Rodríguez,         20.82, -77.57
+Calixto García,            20.90, -76.57
+Urbano Noris,              20.60, -76.21
+Buey Arriba,               20.17, -76.75
+Cauto Cristo,              20.55, -76.47
+Pilón,                     19.91, -77.32
+Guamá,                     19.98, -76.56
+Songo la Maya,             20.16, -75.70
+Tercer Frente,             20.17, -76.30
+Imías,                     20.06, -74.62
+Maisí,                     20.22, -74.14
+San Antonio del Sur,       20.05, -74.80
+Yateras,                   20.37, -74.91
+Municipo Especial,         21.70, -82.82
+Isla de la Juventud,       21.70, -82.82
